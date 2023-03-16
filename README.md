@@ -33,3 +33,7 @@ For further information:
 
 - Email:
   - williamgeorgethomas@gmail.com
+
+# Screenshot
+
+![screenshot of deployed pwa-text-editor](./pwa-text-editor-wgt.herokuapp.com_.png)
